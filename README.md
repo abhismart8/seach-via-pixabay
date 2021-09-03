@@ -1,5 +1,5 @@
-# seach_via_pixabay
+# Search Via Pixabay
 
-I have created this search via pixabay single page running via javascript using pixabay API.
+I have created this search via pixabay laravel application using pixabay API.
 
 # THANK YOU
